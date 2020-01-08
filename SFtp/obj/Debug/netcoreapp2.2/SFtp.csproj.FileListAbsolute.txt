@@ -1,0 +1,9 @@
+C:\Users\franz\source\repos\MiniCore\SFtp\bin\Debug\netcoreapp2.2\SFtp.deps.json
+C:\Users\franz\source\repos\MiniCore\SFtp\bin\Debug\netcoreapp2.2\SFtp.dll
+C:\Users\franz\source\repos\MiniCore\SFtp\bin\Debug\netcoreapp2.2\SFtp.pdb
+C:\Users\franz\source\repos\MiniCore\SFtp\obj\Debug\netcoreapp2.2\SFtp.csprojAssemblyReference.cache
+C:\Users\franz\source\repos\MiniCore\SFtp\obj\Debug\netcoreapp2.2\SFtp.csproj.CoreCompileInputs.cache
+C:\Users\franz\source\repos\MiniCore\SFtp\obj\Debug\netcoreapp2.2\SFtp.AssemblyInfoInputs.cache
+C:\Users\franz\source\repos\MiniCore\SFtp\obj\Debug\netcoreapp2.2\SFtp.AssemblyInfo.cs
+C:\Users\franz\source\repos\MiniCore\SFtp\obj\Debug\netcoreapp2.2\SFtp.dll
+C:\Users\franz\source\repos\MiniCore\SFtp\obj\Debug\netcoreapp2.2\SFtp.pdb

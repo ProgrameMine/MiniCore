@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\franz\\source\\repos\\MiniCore\\SFtp\\SFtp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\franz\\source\\repos\\MiniCore\\SFtp\\SFtp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\franz\\source\\repos\\MiniCore\\SFtp\\SFtp.csproj",
+        "projectName": "SFtp",
+        "projectPath": "C:\\Users\\franz\\source\\repos\\MiniCore\\SFtp\\SFtp.csproj",
+        "packagesPath": "C:\\Users\\franz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franz\\source\\repos\\MiniCore\\SFtp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\franz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "http://192.168.1.229:9050/nuget": {},
+          "http://192.168.9.228/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
