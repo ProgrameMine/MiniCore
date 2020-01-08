@@ -3,7 +3,6 @@ C:\Users\franz\source\repos\MiniCore\MiniCore\bin\Debug\netcoreapp2.2\MiniCore.r
 C:\Users\franz\source\repos\MiniCore\MiniCore\bin\Debug\netcoreapp2.2\MiniCore.runtimeconfig.dev.json
 C:\Users\franz\source\repos\MiniCore\MiniCore\bin\Debug\netcoreapp2.2\MiniCore.dll
 C:\Users\franz\source\repos\MiniCore\MiniCore\bin\Debug\netcoreapp2.2\MiniCore.pdb
-C:\Users\franz\source\repos\MiniCore\MiniCore\obj\Debug\netcoreapp2.2\MiniCore.csprojAssemblyReference.cache
 C:\Users\franz\source\repos\MiniCore\MiniCore\obj\Debug\netcoreapp2.2\MiniCore.csproj.CoreCompileInputs.cache
 C:\Users\franz\source\repos\MiniCore\MiniCore\obj\Debug\netcoreapp2.2\MiniCore.AssemblyInfoInputs.cache
 C:\Users\franz\source\repos\MiniCore\MiniCore\obj\Debug\netcoreapp2.2\MiniCore.AssemblyInfo.cs
